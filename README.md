@@ -73,7 +73,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Install the manifest.py file
 2. Create a new folder, and place it inside.
-3. Open cmd and type 
+3. Open cmd and type:
    ```
    cd (path of your folder)
    ```
@@ -102,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 - Nuitka How To
 ```
 1. Access the "Shell"
-2. python -m nuitka urfile.py
+2. python -m nuitka manifest.py
 ```
 
 - Send it over.
